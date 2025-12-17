@@ -6,4 +6,5 @@
 
 // model :: the structure that handle the data
 
-//
+const titel =document.getElementById("heading");
+titel.innerText = "hello from javascript!";
