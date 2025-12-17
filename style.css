@@ -1,0 +1,45 @@
+body {
+    background: linear-gradient(135deg, #ffb6c1, #ffe4e1);
+    font-family: Arial;
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    background: white;
+    width: 350px;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 8px 0;
+    border-radius: 10px;
+    border: 1px solid #aaa;
+}
+
+button {
+    background: #ff4d6d;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #ff1e4d;
+}
+
+.card {
+    margin-top: 20px;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 15px;
+    background: #ffe8ef;
+    display: none;
+}

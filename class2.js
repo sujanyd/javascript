@@ -1,0 +1,6 @@
+console.log("hello")
+window.console.log("hello2")
+
+//. WINDOW IS AN OBJECT IT IS DEFULT BY THE BROWSER IS THE CONSOLE AND THE ALERT IS THE PART THE WINDOW OBJECT
+
+
