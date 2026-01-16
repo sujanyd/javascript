@@ -1,0 +1,12 @@
+.myButton{
+    background-color: blue;
+    color: white;
+}
+.box1{
+    width: 20vh;
+    height: 20vh;
+    background-color: rgb(53, 45, 37);
+    margin: 40px;
+    color: white;
+    text-align: center;
+}

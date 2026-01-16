@@ -6,5 +6,8 @@
 
 // model :: the structure that handle the data
 
-const titel =document.getElementById("heading");
-titel.innerText = "hello from javascript!";
+// const titel =document.getElementById("heading");
+// titel.innerText = "hello from javascript!";
+// console.log(titel)
+
+
