@@ -7,13 +7,13 @@ function change() {
 
     if (value < 5) {
         pass.innerText = "Easy";
-        pass.style.color = "red";
+        pass.style.color = "black";
     } else if (value < 8) {
         pass.innerText = "Medium";
-        pass.style.color = "orange";
+        pass.style.color = "#fff";
     } else {
         pass.innerText = "Hard";
-        pass.style.color = "green";
+        pass.style.color = "red";
     }
 }
 
